@@ -9,3 +9,5 @@ import { DetailsComponent } from './details/details.component';
   templateUrl: './welcome.component.html'
 })
 export class WelcomeComponent {}
+
+//
