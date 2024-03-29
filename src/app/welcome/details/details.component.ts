@@ -4,7 +4,7 @@ import { AnalyticsService } from 'src/app/shared/analytics.service';
 import { HighlightDirective } from 'src/app/shared/highlight.directive';
 
 @Component({
-  standalone: true,
+  standalone: true,// boolean
   imports: [HighlightDirective],
   selector: 'app-details',
   templateUrl: './details.component.html',
